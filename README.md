@@ -1,6 +1,3 @@
-# test
-test
-
 test - readme.md
 
 Build Setup
