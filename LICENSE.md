@@ -17,6 +17,7 @@ A short and simple permissive license with conditions only requiring preservatio
 - Warranty
 
 **CONDITIONS**
+
 License and copyright notice
 
 Copyright (c) Example Inc
