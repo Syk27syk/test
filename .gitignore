@@ -1,4 +1,4 @@
-test file .gitignore file copied from Android.gitignore
+#test file .gitignore file copied from Android.gitignore
 
 # Gradle files
 .gradle/
